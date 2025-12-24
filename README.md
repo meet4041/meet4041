@@ -15,7 +15,7 @@
 
 - 🔭 I’m currently working on **Archivus | Chatbot**
 - 🌱 I’m currently learning **Machine Learning & Go**
-- 👨‍💻 All of my projects are available at [**My Portfolio**](https://meetgandhi4041.wixsite.com/meet)
+- 👨‍💻 All of my projects are available at [**My Portfolio**](https://meetgandhi.vercel.app)
 - 📝 I regularly write articles on [**Medium**](https://medium.com/@meetgandhi4041)
 - 💬 Ask me about **Python, DSA, Career in IT**
 - 📄 Know about my experiences: [**Download Resume**](https://454fc142-c483-4882-9f13-9d5422cd54b5.filesusr.com/ugd/8ad3e9_942d1e561f4a48a0bcf91484d48e64e8.pdf)
