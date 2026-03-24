@@ -72,9 +72,6 @@
   <a href="https://www.hackerrank.com/meetgandhi4041" target="_blank">
     <img src="https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" target="_blank" />
   </a>
-  <a href="https://instagram.com/meetgandhi__" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" />
-  </a>
 </div>
 
 <p align="center">
