@@ -66,7 +66,7 @@
   <a href="https://medium.com/@meetgandhi4041" target="_blank">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank" />
   </a>
-  <a href="https://www.youtube.com/c/@meetgandhi8395" target="_blank">
+  <a href="https://www.youtube.com/@gandhimeet" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank" />
   </a>
   <a href="https://www.hackerrank.com/meetgandhi4041" target="_blank">
