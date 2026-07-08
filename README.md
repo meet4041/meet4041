@@ -130,28 +130,6 @@
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=meet4041&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10&row=2&column=4"/>
-
-</p>
-
----
-
-# 🚀 Featured Projects
-
-⭐ Archivus Chatbot
-
-⭐ Machine Learning Projects
-
-⭐ Python Utilities
-
-⭐ Open Source Contributions
-
----
-
 <div align="center">
 
 ### Thanks for visiting! ❤️
