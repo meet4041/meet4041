@@ -32,25 +32,17 @@
 # 🌐 Connect With Me
 
 <p align="center">
-<a href="https://linkedin.com/in/meetgandhi4041" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" height="48" />
-</a>
 
-<a href="https://kaggle.com/meet12121212" target="_blank">
-  <img src="https://cdn.simpleicons.org/kaggle/20BEFF" height="48" />
-</a>
+<a href="https://linkedin.com/in/meetgandhi4041" target="_blank"><b>LinkedIn</b></a>
+&nbsp;|&nbsp;
+<a href="https://kaggle.com/meet12121212" target="_blank"><b>Kaggle</b></a>
+&nbsp;|&nbsp;
+<a href="https://medium.com/@meetgandhi4041" target="_blank"><b>Medium</b></a>
+&nbsp;|&nbsp;
+<a href="https://www.youtube.com/@gandhimeet" target="_blank"><b>YouTube</b></a>
+&nbsp;|&nbsp;
+<a href="https://www.hackerrank.com/meetgandhi4041" target="_blank"><b>HackerRank</b></a>
 
-<a href="https://medium.com/@meetgandhi4041" target="_blank">
-  <img src="https://cdn.simpleicons.org/medium/FFFFFF" height="48" />
-</a>
-
-<a href="https://www.youtube.com/@gandhimeet" target="_blank">
-  <img src="https://skillicons.dev/icons?i=youtube" height="48" />
-</a>
-
-<a href="https://www.hackerrank.com/meetgandhi4041" target="_blank">
-  <img src="https://cdn.simpleicons.org/hackerrank/2EC866" height="48" />
-</a>
 </p>
 
 ---
